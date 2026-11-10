@@ -10,4 +10,4 @@ Free up space on your iPhone and Mac.
 - iPhone: https://apps.apple.com/app/apple-store/id6827276314?pt=118750683&ct=github&mt=8
 - Mac (Homebrew): `brew install --cask leanvitale/tap/pruneo`
 
-Made by Julieta Fredes and Lean Vitale, from Spain.
+Made by Julieta Fredes and Lean Vitale.
